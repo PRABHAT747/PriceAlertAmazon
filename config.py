@@ -1,3 +1,0 @@
-PRODUCT_URL = "https://www.amazon.in/dp/B0GR1RQ144"
-TARGET_PRICE = 500000
-CHECK_INTERVAL = 300  
